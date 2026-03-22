@@ -1,0 +1,5 @@
+C:\Users\Ana Lufulakio Muanda\Downloads\mankenda vicente\trabalho de linguagem\trabalho de linguagem\bin\Debug\trabalho de linguagem.exe.config
+C:\Users\Ana Lufulakio Muanda\Downloads\mankenda vicente\trabalho de linguagem\trabalho de linguagem\bin\Debug\trabalho de linguagem.exe
+C:\Users\Ana Lufulakio Muanda\Downloads\mankenda vicente\trabalho de linguagem\trabalho de linguagem\bin\Debug\trabalho de linguagem.pdb
+C:\Users\Ana Lufulakio Muanda\Downloads\mankenda vicente\trabalho de linguagem\trabalho de linguagem\obj\Debug\trabalho de linguagem.exe
+C:\Users\Ana Lufulakio Muanda\Downloads\mankenda vicente\trabalho de linguagem\trabalho de linguagem\obj\Debug\trabalho de linguagem.pdb
